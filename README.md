@@ -1,2 +1,2 @@
-# my_vim_config
-just backup of my vim config
+# my_neovim_config
+just backup of my neovim config
